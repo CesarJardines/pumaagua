@@ -1,0 +1,22 @@
+[
+{
+    "pk": 1,
+    "model": "pumaguaAPP.bebederos",
+    "fields": {
+        "nombre": "Bebedero Anexo de Ingeniería",
+        "ubicacion": "Edificio H ",
+        "institucion": "Anexo de Ingeniería",
+        "palabras_clave": "Ingeniería, mural estudiantil del 68"
+    }
+},
+{
+    "pk": 2,
+    "model": "pumaguaAPP.bebederos",
+    "fields": {
+        "nombre": "Suman",
+        "ubicacion": "Suman",
+        "institucion": "",
+        "palabras_clave": ""
+    }
+}
+]
