@@ -1,0 +1,1232 @@
+[
+    {
+	"pk": 1,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Anexo de Ingeniería",
+	    "ubicacion": "Edificio H ",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Bebedero, Anexo, de, Ingeniería, Edificio, H, "
+	}
+    },
+    {
+	"pk": 2,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Anexo de Ingeniería",
+	    "ubicacion": "Edificio J ",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Bebedero, Anexo, de, Ingeniería, Edificio, J, "
+	}
+    },
+    {
+	"pk": 3,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Anexo de Ingeniería",
+	    "ubicacion": "Edificio S",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Bebedero, Anexo, de, Ingeniería, Edificio, S"
+	}
+    },
+    {
+	"pk": 4,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Anexo de Ingeniería",
+	    "ubicacion": "Edificio T",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Bebedero, Anexo, de, Ingeniería, Edificio, T"
+	}
+    },
+    {
+	"pk": 5,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Campo 1 de fútbol",
+	    "ubicacion": "A",
+	    "institucion": "Campo 1 de fútbol",
+	    "palabras_clave": "Bebedero, Campo, 1, de, fútbol, A"
+	}
+    },
+    {
+	"pk": 6,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Campo 1 de fútbol",
+	    "ubicacion": "B",
+	    "institucion": "Campo 1 de fútbol",
+	    "palabras_clave": "Bebedero, Campo, 1, de, fútbol, B"
+	}
+    },
+    {
+	"pk": 7,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Centro de Enseñanza para Extranjeros",
+	    "ubicacion": "Centro de Enseñanza para Extranjeros",
+	    "institucion": "Centro de Enseñanza para Extranjeros",
+	    "palabras_clave": "Bebedero, Centro, de, Enseñanza, para, Extranjeros"
+	}
+    },
+    {
+	"pk": 8,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Centro de Enseñanza para Extranjeros",
+	    "ubicacion": "Cafetería",
+	    "institucion": "Centro de Enseñanza para Extranjeros",
+	    "palabras_clave": "Bebedero, Centro, de, Enseñanza, para, Extranjeros, Cafetería"
+	}
+    },
+    {
+	"pk": 9,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Centro Universitario de Teatro",
+	    "ubicacion": "Centro Universitario de Teatro",
+	    "institucion": "Centro Universitario de Teatro",
+	    "palabras_clave": "Bebedero, Centro, Universitario, de, Teatro"
+	}
+    },
+    {
+	"pk": 10,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Ciencia Forense",
+	    "ubicacion": "Ciencia Forense",
+	    "institucion": "Ciencia Forense",
+	    "palabras_clave": "Bebedero, Ciencia, Forense"
+	}
+    },
+    {
+	"pk": 11,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Departamento de Psiquiatría y Salud Mental",
+	    "ubicacion": "Departamento de Psiquiatría y Salud Mental",
+	    "institucion": "Departamento de Psiquiatría y Salud Mental",
+	    "palabras_clave": "Bebedero, Departamento, de, Psiquiatría, y, Salud, Mental"
+	}
+    },
+    {
+	"pk": 12,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Escuela Nacional de Lenguas",
+	    "ubicacion": "Lingüística y traducción (ENALLT), Edificio A",
+	    "institucion": "Escuela Nacional de Lenguas",
+	    "palabras_clave": "Bebedero, Escuela, Nacional, de, Lenguas, Lingüística, y, traducción, (ENALLT), Edificio, A"
+	}
+    },
+    {
+	"pk": 13,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Escuela Nacional de Lenguas",
+	    "ubicacion": "Lingüística y Traducción (ENALLT), Edificio B",
+	    "institucion": "Escuela Nacional de Lenguas",
+	    "palabras_clave": "Bebedero, Escuela, Nacional, de, Lenguas, Lingüística, y, Traducción, (ENALLT), Edificio, B"
+	}
+    },
+    {
+	"pk": 14,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Escuela Nacional de Trabajo Social",
+	    "ubicacion": "Edificio A",
+	    "institucion": "Escuela Nacional de Trabajo Social",
+	    "palabras_clave": "Bebedero, Escuela, Nacional, de, Trabajo, Social, Edificio, A"
+	}
+    },
+    {
+	"pk": 15,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Escuela Nacional de Trabajo Social",
+	    "ubicacion": "Edificio B ",
+	    "institucion": "Escuela Nacional de Trabajo Social",
+	    "palabras_clave": "Bebedero, Escuela, Nacional, de, Trabajo, Social, Edificio, B, "
+	}
+    },
+    {
+	"pk": 16,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Escuela Nacional de Trabajo Social",
+	    "ubicacion": "Edificio D ",
+	    "institucion": "Escuela Nacional de Trabajo Social",
+	    "palabras_clave": "Bebedero, Escuela, Nacional, de, Trabajo, Social, Edificio, D, "
+	}
+    },
+    {
+	"pk": 17,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Escuela Nacional de Trabajo Social",
+	    "ubicacion": "Gimnasio al aire libre",
+	    "institucion": "Escuela Nacional de Trabajo Social",
+	    "palabras_clave": "Bebedero, Escuela, Nacional, de, Trabajo, Social, Gimnasio, al, aire, libre"
+	}
+    },
+    {
+	"pk": 18,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Edificio principal ",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Edificio, principal, "
+	}
+    },
+    {
+	"pk": 19,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller Carlos Lazo",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, Carlos, Lazo"
+	}
+    },
+    {
+	"pk": 20,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller Carlos Leduc",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, Carlos, Leduc"
+	}
+    },
+    {
+	"pk": 21,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller Domingo García Ramos-José Villagrán",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, Domingo, García, Ramos-José, Villagrán"
+	}
+    },
+    {
+	"pk": 22,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller Ehécatl 21-Juan O’Gorman",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, Ehécatl, 21-Juan, O’Gorman"
+	}
+    },
+    {
+	"pk": 23,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller José Revueltas-Max Cetto",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, José, Revueltas-Max, Cetto"
+	}
+    },
+    {
+	"pk": 24,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller Juan Antonio García Gayou-Ramón Marcos Noriega",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, Juan, Antonio, García, Gayou-Ramón, Marcos, Noriega"
+	}
+    },
+    {
+	"pk": 25,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller Uno y Tres",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, Uno, y, Tres"
+	}
+    },
+    {
+	"pk": 26,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias Políticas y Sociales",
+	    "ubicacion": "Cafetería",
+	    "institucion": "Facultad de Ciencias Políticas y Sociales",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Políticas, y, Sociales, Cafetería"
+	}
+    },
+    {
+	"pk": 27,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias Políticas y Sociales",
+	    "ubicacion": "Explanada alta",
+	    "institucion": "Facultad de Ciencias Políticas y Sociales",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Políticas, y, Sociales, Explanada, alta"
+	}
+    },
+    {
+	"pk": 28,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias",
+	    "ubicacion": "Edificio P ",
+	    "institucion": "Facultad de Ciencias",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Edificio, P, "
+	}
+    },
+    {
+	"pk": 29,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias",
+	    "ubicacion": "Prometeo ",
+	    "institucion": "Facultad de Ciencias",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Prometeo, "
+	}
+    },
+    {
+	"pk": 30,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias",
+	    "ubicacion": "Tlahuizcalpan, Edificio A",
+	    "institucion": "Facultad de Ciencias",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Tlahuizcalpan, Edificio, A"
+	}
+    },
+    {
+	"pk": 31,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias",
+	    "ubicacion": "Tlahuizcalpan, Edificio B",
+	    "institucion": "Facultad de Ciencias",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Tlahuizcalpan, Edificio, B"
+	}
+    },
+    {
+	"pk": 32,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Contaduría y Administración",
+	    "ubicacion": "Cafetería",
+	    "institucion": "Facultad de Contaduría y Administración",
+	    "palabras_clave": "Bebedero, Facultad, de, Contaduría, y, Administración, Cafetería"
+	}
+    },
+    {
+	"pk": 33,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Contaduría y Administración",
+	    "ubicacion": "Centro de Idiomas",
+	    "institucion": "Facultad de Contaduría y Administración",
+	    "palabras_clave": "Bebedero, Facultad, de, Contaduría, y, Administración, Centro, de, Idiomas"
+	}
+    },
+    {
+	"pk": 34,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Contaduría y Administración",
+	    "ubicacion": "Edificio A",
+	    "institucion": "Facultad de Contaduría y Administración",
+	    "palabras_clave": "Bebedero, Facultad, de, Contaduría, y, Administración, Edificio, A"
+	}
+    },
+    {
+	"pk": 35,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio C ",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, C, "
+	}
+    },
+    {
+	"pk": 36,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio E, planta baja",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, E, planta, baja"
+	}
+    },
+    {
+	"pk": 37,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Economía",
+	    "ubicacion": "Edificio B, 1° piso",
+	    "institucion": "Facultad de Economía",
+	    "palabras_clave": "Bebedero, Facultad, de, Economía, Edificio, B, 1°, piso"
+	}
+    },
+    {
+	"pk": 38,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Economía",
+	    "ubicacion": "Edificio principal",
+	    "institucion": "Facultad de Economía",
+	    "palabras_clave": "Bebedero, Facultad, de, Economía, Edificio, principal"
+	}
+    },
+    {
+	"pk": 39,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Edificio Adolfo Sánchez Vázquez, 3° piso",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Edificio, Adolfo, Sánchez, Vázquez, 3°, piso"
+	}
+    },
+    {
+	"pk": 40,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "1° piso",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, 1°, piso"
+	}
+    },
+    {
+	"pk": 41,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "1° piso, Aula-114",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, 1°, piso, Aula-114"
+	}
+    },
+    {
+	"pk": 42,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "2° piso",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, 2°, piso"
+	}
+    },
+    {
+	"pk": 43,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "2° piso, Aula-208",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, 2°, piso, Aula-208"
+	}
+    },
+    {
+	"pk": 44,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "3° piso",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, 3°, piso"
+	}
+    },
+    {
+	"pk": 45,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Biblioteca Samuel Ramos",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Biblioteca, Samuel, Ramos"
+	}
+    },
+    {
+	"pk": 46,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Edificio Adolfo Sánchez Vázquez, planta baja",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Edificio, Adolfo, Sánchez, Vázquez, planta, baja"
+	}
+    },
+    {
+	"pk": 47,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Edificio Adolfo Sánchez Vázquez, descanso 1° piso",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Edificio, Adolfo, Sánchez, Vázquez, descanso, 1°, piso"
+	}
+    },
+    {
+	"pk": 48,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Edificio Adolfo Sánchez Vázquez, descanso 2° piso",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Edificio, Adolfo, Sánchez, Vázquez, descanso, 2°, piso"
+	}
+    },
+    {
+	"pk": 49,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Jardín Rosario Castellanos",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Jardín, Rosario, Castellanos"
+	}
+    },
+    {
+	"pk": 50,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Jardín Rosario Castellanos, Busto",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Jardín, Rosario, Castellanos, Busto"
+	}
+    },
+    {
+	"pk": 51,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ingeniería",
+	    "ubicacion": "Biblioteca Antonio Dovalí Jaime ",
+	    "institucion": "Facultad de Ingeniería",
+	    "palabras_clave": "Bebedero, Facultad, de, Ingeniería, Biblioteca, Antonio, Dovalí, Jaime, "
+	}
+    },
+    {
+	"pk": 52,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ingeniería",
+	    "ubicacion": "Sala de Exámenes Profesionales",
+	    "institucion": "Facultad de Ingeniería",
+	    "palabras_clave": "Bebedero, Facultad, de, Ingeniería, Sala, de, Exámenes, Profesionales"
+	}
+    },
+    {
+	"pk": 53,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Medicina",
+	    "ubicacion": "Biblioteca Dr. Valentín Gómez Farías",
+	    "institucion": "Facultad de Medicina",
+	    "palabras_clave": "Bebedero, Facultad, de, Medicina, Biblioteca, Dr., Valentín, Gómez, Farías"
+	}
+    },
+    {
+	"pk": 54,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Medicina",
+	    "ubicacion": "Edificio B",
+	    "institucion": "Facultad de Medicina",
+	    "palabras_clave": "Bebedero, Facultad, de, Medicina, Edificio, B"
+	}
+    },
+    {
+	"pk": 55,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Medicina",
+	    "ubicacion": "Edificio D ",
+	    "institucion": "Facultad de Medicina",
+	    "palabras_clave": "Bebedero, Facultad, de, Medicina, Edificio, D, "
+	}
+    },
+    {
+	"pk": 56,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Biblioteca Dra. Graciela Rodriguez Ortega",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Biblioteca, Dra., Graciela, Rodriguez, Ortega"
+	}
+    },
+    {
+	"pk": 57,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Cafetería",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Cafetería"
+	}
+    },
+    {
+	"pk": 58,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Centro de Servicios Psicológicos",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Centro, de, Servicios, Psicológicos"
+	}
+    },
+    {
+	"pk": 59,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Edificio A (Oficina sindical)",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Edificio, A, (Oficina, sindical)"
+	}
+    },
+    {
+	"pk": 60,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Edificio C",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Edificio, C"
+	}
+    },
+    {
+	"pk": 61,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Edificio E (Explanada)",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Edificio, E, (Explanada)"
+	}
+    },
+    {
+	"pk": 62,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Zona deportiva",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Zona, deportiva"
+	}
+    },
+    {
+	"pk": 63,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Química",
+	    "ubicacion": "Canchas",
+	    "institucion": "Facultad de Química",
+	    "palabras_clave": "Bebedero, Facultad, de, Química, Canchas"
+	}
+    },
+    {
+	"pk": 64,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Química",
+	    "ubicacion": "Edificio B, Sótano",
+	    "institucion": "Facultad de Química",
+	    "palabras_clave": "Bebedero, Facultad, de, Química, Edificio, B, Sótano"
+	}
+    },
+    {
+	"pk": 65,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Instituto de Ciencias Nucleares",
+	    "ubicacion": "Edificio C, 1° piso",
+	    "institucion": "Instituto de Ciencias Nucleares",
+	    "palabras_clave": "Bebedero, Instituto, de, Ciencias, Nucleares, Edificio, C, 1°, piso"
+	}
+    },
+    {
+	"pk": 66,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Instituto de Ciencias Nucleares",
+	    "ubicacion": "Edificio C, 2° piso",
+	    "institucion": "Instituto de Ciencias Nucleares",
+	    "palabras_clave": "Bebedero, Instituto, de, Ciencias, Nucleares, Edificio, C, 2°, piso"
+	}
+    },
+    {
+	"pk": 67,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Instituto de Ciencias Nucleares",
+	    "ubicacion": "Edificio C, 3° piso",
+	    "institucion": "Instituto de Ciencias Nucleares",
+	    "palabras_clave": "Bebedero, Instituto, de, Ciencias, Nucleares, Edificio, C, 3°, piso"
+	}
+    },
+    {
+	"pk": 68,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Instituto de Ciencias Nucleares",
+	    "ubicacion": "Edificio F, 2° piso",
+	    "institucion": "Instituto de Ciencias Nucleares",
+	    "palabras_clave": "Bebedero, Instituto, de, Ciencias, Nucleares, Edificio, F, 2°, piso"
+	}
+    },
+    {
+	"pk": 69,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Instituto de Ecología",
+	    "ubicacion": "Instituto de Ecología",
+	    "institucion": "Instituto de Ecología",
+	    "palabras_clave": "Bebedero, Instituto, de, Ecología"
+	}
+    },
+    {
+	"pk": 70,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Pista de Calentamiento",
+	    "ubicacion": "Gimnasio de Halterofilia",
+	    "institucion": "Pista de Calentamiento",
+	    "palabras_clave": "Bebedero, Pista, de, Calentamiento, Gimnasio, de, Halterofilia"
+	}
+    },
+    {
+	"pk": 71,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Pista de Calentamiento",
+	    "ubicacion": "Pista",
+	    "institucion": "Pista de Calentamiento",
+	    "palabras_clave": "Bebedero, Pista, de, Calentamiento, Pista"
+	}
+    },
+    {
+	"pk": 72,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Sala Nezahualcóyotl",
+	    "ubicacion": "Sala Nezahualcóyotl",
+	    "institucion": "Sala Nezahualcóyotl",
+	    "palabras_clave": "Bebedero, Sala, Nezahualcóyotl"
+	}
+    },
+    {
+	"pk": 73,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Taller de Danza",
+	    "ubicacion": "Taller de Danza",
+	    "institucion": "Taller de Danza",
+	    "palabras_clave": "Bebedero, Taller, de, Danza"
+	}
+    },
+    {
+	"pk": 74,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Unidad de Cines",
+	    "ubicacion": "Unidad de Cines",
+	    "institucion": "Unidad de Cines",
+	    "palabras_clave": "Bebedero, Unidad, de, Cines"
+	}
+    },
+    {
+	"pk": 75,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Unidad de posgrado",
+	    "ubicacion": "Edificio H",
+	    "institucion": "Unidad de posgrado",
+	    "palabras_clave": "Bebedero, Unidad, de, posgrado, Edificio, H"
+	}
+    },
+    {
+	"pk": 76,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Unidad de Posgrado",
+	    "ubicacion": "Explanada",
+	    "institucion": "Unidad de Posgrado",
+	    "palabras_clave": "Bebedero, Unidad, de, Posgrado, Explanada"
+	}
+    },
+    {
+	"pk": 77,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Universum",
+	    "ubicacion": "Explanada",
+	    "institucion": "Universum",
+	    "palabras_clave": "Bebedero, Universum, Explanada"
+	}
+    },
+    {
+	"pk": 78,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Universum",
+	    "ubicacion": "Fuente",
+	    "institucion": "Universum",
+	    "palabras_clave": "Bebedero, Universum, Fuente"
+	}
+    },
+    {
+	"pk": 79,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio D, 1° piso, Aula D-101",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, D, 1°, piso, Aula, D-101"
+	}
+    },
+    {
+	"pk": 80,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio D, 1° piso, Aula D-112",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, D, 1°, piso, Aula, D-112"
+	}
+    },
+    {
+	"pk": 81,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio D, 2° piso, Aula D-202",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, D, 2°, piso, Aula, D-202"
+	}
+    },
+    {
+	"pk": 82,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio D, 2° piso, Aula D-211",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, D, 2°, piso, Aula, D-211"
+	}
+    },
+    {
+	"pk": 83,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio D, 3° piso",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, D, 3°, piso"
+	}
+    },
+    {
+	"pk": 84,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio E, 1° piso",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, E, 1°, piso"
+	}
+    },
+    {
+	"pk": 85,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "CECESD Exterior",
+	    "ubicacion": "CECESD Exterior",
+	    "institucion": "CECESD Exterior",
+	    "palabras_clave": "CECESD, Exterior"
+	}
+    },
+    {
+	"pk": 86,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "DGDU Exterior",
+	    "ubicacion": "DGDU Exterior",
+	    "institucion": "DGDU Exterior",
+	    "palabras_clave": "DGDU, Exterior"
+	}
+    },
+    {
+	"pk": 87,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Anexo de Ingeniería",
+	    "ubicacion": "Camino Verde ",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Dispensador, Anexo, de, Ingeniería, Camino, Verde, "
+	}
+    },
+    {
+	"pk": 88,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Anexo de Ingeniería",
+	    "ubicacion": "Edificio R",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Dispensador, Anexo, de, Ingeniería, Edificio, R"
+	}
+    },
+    {
+	"pk": 89,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Anexo de Ingeniería",
+	    "ubicacion": "Edificio W",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Dispensador, Anexo, de, Ingeniería, Edificio, W"
+	}
+    },
+    {
+	"pk": 90,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador ex reposo de Atletas",
+	    "ubicacion": "Dispensador ex reposo de Atletas",
+	    "institucion": "ex reposo de Atletas",
+	    "palabras_clave": "Dispensador, ex, reposo, de, Atletas"
+	}
+    },
+    {
+	"pk": 91,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Arquitectura",
+	    "ubicacion": "Taller Hannes Meyer",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Dispensador, Facultad, de, Arquitectura, Taller, Hannes, Meyer"
+	}
+    },
+    {
+	"pk": 92,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Arquitectura",
+	    "ubicacion": "Taller Jorge González Reyna",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Dispensador, Facultad, de, Arquitectura, Taller, Jorge, González, Reyna"
+	}
+    },
+    {
+	"pk": 93,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Arquitectura",
+	    "ubicacion": "Taller Luis Barragán",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Dispensador, Facultad, de, Arquitectura, Taller, Luis, Barragán"
+	}
+    },
+    {
+	"pk": 94,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Ingeniería",
+	    "ubicacion": "Ed. B planta baja ",
+	    "institucion": "Facultad de Ingeniería",
+	    "palabras_clave": "Dispensador, Facultad, de, Ingeniería, Ed., B, planta, baja, "
+	}
+    },
+    {
+	"pk": 95,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Ingenieria",
+	    "ubicacion": "Ed. B puente",
+	    "institucion": "Facultad de Ingenieria",
+	    "palabras_clave": "Dispensador, Facultad, de, Ingenieria, Ed., B, puente"
+	}
+    },
+    {
+	"pk": 96,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Ingeniería",
+	    "ubicacion": "Ed. C 2º piso  ",
+	    "institucion": "Facultad de Ingeniería",
+	    "palabras_clave": "Dispensador, Facultad, de, Ingeniería, Ed., C, 2º, piso, , "
+	}
+    },
+    {
+	"pk": 97,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Ingeniería",
+	    "ubicacion": "Jardín Central  ",
+	    "institucion": "Facultad de Ingeniería",
+	    "palabras_clave": "Dispensador, Facultad, de, Ingeniería, Jardín, Central, , "
+	}
+    },
+    {
+	"pk": 98,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Instituto de investigaciones Económocas",
+	    "ubicacion": "Instituto de investigaciones Económocas",
+	    "institucion": "Instituto de investigaciones Económocas",
+	    "palabras_clave": "Instituto, de, investigaciones, Económocas"
+	}
+    },
+    {
+	"pk": 99,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Jugo de nube",
+	    "ubicacion": "Jugo de nube",
+	    "institucion": "Jugo de nube",
+	    "palabras_clave": "Jugo, de, nube"
+	}
+    },
+    {
+	"pk": 100,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Pista de Calentamiento",
+	    "ubicacion": "Pista de Calentamiento",
+	    "institucion": "Pista de Calentamiento",
+	    "palabras_clave": "Pista, de, Calentamiento"
+	}
+    },
+    {
+	"pk": 101,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R1, Dispensador Alberca Olímpica",
+	    "ubicacion": "Cancha de voleibol de playa ",
+	    "institucion": "Alberca Olímpica",
+	    "palabras_clave": "R1., Dispensador, Alberca, Olímpica., Cancha, de, voleibol, de, playa, "
+	}
+    },
+    {
+	"pk": 102,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R11, Dispensador Campos de fútbol Americano",
+	    "ubicacion": "Cubículo médico  ",
+	    "institucion": "Campos de fútbol Americano",
+	    "palabras_clave": "R11., Dispensador, Campos, de, fútbol, Americano., Cubículo, médico, , "
+	}
+    },
+    {
+	"pk": 103,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R12, Dispensador Campos de Fútbol Americano",
+	    "ubicacion": "Entre comedor y baños ",
+	    "institucion": "Campos de Fútbol Americano",
+	    "palabras_clave": "R12., Dispensador, Campos, de, Fútbol, Americano., Entre, comedor, y, baños, "
+	}
+    },
+    {
+	"pk": 104,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R13, Dispensador Estadio de Prácticas",
+	    "ubicacion": "Tiro con arco  ",
+	    "institucion": "Estadio de Prácticas",
+	    "palabras_clave": "R13., Dispensador, Estadio, de, Prácticas., Tiro, con, arco, , "
+	}
+    },
+    {
+	"pk": 105,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R15, Dispensador Estadio de Prácticas",
+	    "ubicacion": "Vestidores",
+	    "institucion": "Estadio de Prácticas",
+	    "palabras_clave": "R15., Dispensador, Estadio, de, Prácticas., Vestidores"
+	}
+    },
+    {
+	"pk": 106,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R17, Dispensador Estadio de Prácticas",
+	    "ubicacion": "Entre baños de mujeres y hombre",
+	    "institucion": "Estadio de Prácticas",
+	    "palabras_clave": "R17., Dispensador, Estadio, de, Prácticas., Entre, baños, de, mujeres, y, hombre"
+	}
+    },
+    {
+	"pk": 107,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R18, Dispensador Estadio de Prácticas",
+	    "ubicacion": "Acceso a ambulancias",
+	    "institucion": "Estadio de Prácticas",
+	    "palabras_clave": "R18., Dispensador, Estadio, de, Prácticas., Acceso, a, ambulancias"
+	}
+    },
+    {
+	"pk": 108,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R19, Dispensador Estadio de Prácticas",
+	    "ubicacion": "Al interior del acceso a ambulancias ",
+	    "institucion": "Estadio de Prácticas",
+	    "palabras_clave": "R19., Dispensador, Estadio, de, Prácticas., Al, interior, del, acceso, a, ambulancias, "
+	}
+    },
+    {
+	"pk": 109,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R2, Dispensador Alberca Olímpica",
+	    "ubicacion": "Rampa de acceso",
+	    "institucion": "Alberca Olímpica",
+	    "palabras_clave": "R2., Dispensador, Alberca, Olímpica., Rampa, de, acceso"
+	}
+    },
+    {
+	"pk": 110,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R20, Dispensador Estadio de Prácticas",
+	    "ubicacion": "Campo de usos múltiples",
+	    "institucion": "Estadio de Prácticas",
+	    "palabras_clave": "R20., Dispensador, Estadio, de, Prácticas., Campo, de, usos, múltiples"
+	}
+    },
+    {
+	"pk": 111,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R21, Dispensador Frontón Abierto",
+	    "ubicacion": "Cancha de tennis",
+	    "institucion": "Frontón Abierto",
+	    "palabras_clave": "R21., Dispensador, Frontón, Abierto., Cancha, de, tennis"
+	}
+    },
+    {
+	"pk": 112,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R22, Dispensador Frontón Abierto",
+	    "ubicacion": "Cancha de basket ",
+	    "institucion": "Frontón Abierto",
+	    "palabras_clave": "R22., Dispensador, Frontón, Abierto., Cancha, de, basket, "
+	}
+    },
+    {
+	"pk": 113,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R23, Dispensador Frontón Abierto",
+	    "ubicacion": "Cancha de Voleibol",
+	    "institucion": "Frontón Abierto",
+	    "palabras_clave": "R23., Dispensador, Frontón, Abierto., Cancha, de, Voleibol"
+	}
+    },
+    {
+	"pk": 114,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R26, Dispensador Frontón Cerrado",
+	    "ubicacion": "Explanada ",
+	    "institucion": "Frontón Cerrado",
+	    "palabras_clave": "R26., Dispensador, Frontón, Cerrado., Explanada, "
+	}
+    },
+    {
+	"pk": 115,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R3, Dispensador Alberca Olímpica",
+	    "ubicacion": "Comedor",
+	    "institucion": "Alberca Olímpica",
+	    "palabras_clave": "R3., Dispensador, Alberca, Olímpica., Comedor"
+	}
+    },
+    {
+	"pk": 116,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R40, Dispensador Campo de Béisbol",
+	    "ubicacion": "Gradas A",
+	    "institucion": "Campo de Béisbol",
+	    "palabras_clave": "R40., Dispensador, Campo, de, Béisbol., Gradas, A"
+	}
+    },
+    {
+	"pk": 117,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R41, campo de Béisbol",
+	    "ubicacion": "Gradas B ",
+	    "institucion": "sbol",
+	    "palabras_clave": "R41., campo, de, Béisbol., Gradas, B, "
+	}
+    },
+    {
+	"pk": 118,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R42, Dispensador Campo de Béisbol",
+	    "ubicacion": "Principal  ",
+	    "institucion": "Campo de Béisbol",
+	    "palabras_clave": "R42., Dispensador, Campo, de, Béisbol., Principal, , "
+	}
+    },
+    {
+	"pk": 119,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R5, Dispensador Coordinación de Fútbol Americano",
+	    "ubicacion": "Caseta de vigilancia ",
+	    "institucion": "Coordinación de Fútbol Americano",
+	    "palabras_clave": "R5., Dispensador, Coordinación, de, Fútbol, Americano., Caseta, de, vigilancia, "
+	}
+    },
+    {
+	"pk": 120,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R6, Dispensador Coordinación de Fútbol Americano",
+	    "ubicacion": "Acceso al gimnasio  ",
+	    "institucion": "Coordinación de Fútbol Americano",
+	    "palabras_clave": "R6., Dispensador, Coordinación, de, Fútbol, Americano., Acceso, al, gimnasio, , "
+	}
+    },
+    {
+	"pk": 121,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R7, Dispensador Coordinación de Fútbol Americano",
+	    "ubicacion": "Arrancadero ",
+	    "institucion": "Coordinación de Fútbol Americano",
+	    "palabras_clave": "R7., Dispensador, Coordinación, de, Fútbol, Americano., Arrancadero, "
+	}
+    },
+    {
+	"pk": 122,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R8, Dispensador Campos de Fútbol Americano",
+	    "ubicacion": "Baños",
+	    "institucion": "Campos de Fútbol Americano",
+	    "palabras_clave": "R8., Dispensador, Campos, de, Fútbol, Americano., Baños"
+	}
+    },
+    {
+	"pk": 123,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R9, Dispensador Campos de Fútbol Americano",
+	    "ubicacion": "Bodega campo 4",
+	    "institucion": "Campos de Fútbol Americano",
+	    "palabras_clave": "R9., Dispensador, Campos, de, Fútbol, Americano., Bodega, campo, 4"
+	}
+    }
+]

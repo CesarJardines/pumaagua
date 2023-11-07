@@ -1,0 +1,123 @@
+Bebedero Anexo de Ingeniería, Edificio H 
+Bebedero Anexo de Ingeniería, Edificio J 
+Bebedero Anexo de Ingeniería, Edificio S
+Bebedero Anexo de Ingeniería, Edificio T
+Bebedero Campo 1 de fútbol, A
+Bebedero Campo 1 de fútbol, B
+Bebedero Centro de Enseñanza para Extranjeros
+Bebedero Centro de Enseñanza para Extranjeros, Cafetería
+Bebedero Centro Universitario de Teatro
+Bebedero Ciencia Forense
+Bebedero Departamento de Psiquiatría y Salud Mental
+Bebedero Escuela Nacional de Lenguas, Lingüística y traducción (ENALLT), Edificio A
+Bebedero Escuela Nacional de Lenguas, Lingüística y Traducción (ENALLT), Edificio B
+Bebedero Escuela Nacional de Trabajo Social, Edificio A
+Bebedero Escuela Nacional de Trabajo Social, Edificio B 
+Bebedero Escuela Nacional de Trabajo Social, Edificio D 
+Bebedero Escuela Nacional de Trabajo Social, Gimnasio al aire libre
+Bebedero Facultad de Arquitectura, Edificio principal 
+Bebedero Facultad de Arquitectura, Taller Carlos Lazo
+Bebedero Facultad de Arquitectura, Taller Carlos Leduc
+Bebedero Facultad de Arquitectura, Taller Domingo García Ramos-José Villagrán
+Bebedero Facultad de Arquitectura, Taller Ehécatl 21-Juan O’Gorman
+Bebedero Facultad de Arquitectura, Taller José Revueltas-Max Cetto
+Bebedero Facultad de Arquitectura, Taller Juan Antonio García Gayou-Ramón Marcos Noriega
+Bebedero Facultad de Arquitectura, Taller Uno y Tres
+Bebedero Facultad de Ciencias Políticas y Sociales, Cafetería
+Bebedero Facultad de Ciencias Políticas y Sociales, Explanada alta
+Bebedero Facultad de Ciencias, Edificio P 
+Bebedero Facultad de Ciencias, Prometeo 
+Bebedero Facultad de Ciencias, Tlahuizcalpan, Edificio A
+Bebedero Facultad de Ciencias, Tlahuizcalpan, Edificio B
+Bebedero Facultad de Contaduría y Administración, Cafetería
+Bebedero Facultad de Contaduría y Administración, Centro de Idiomas
+Bebedero Facultad de Contaduría y Administración, Edificio A
+Bebedero Facultad de Derecho, Edificio C 
+Bebedero Facultad de Derecho, Edificio E, planta baja
+Bebedero Facultad de Economía, Edificio B, 1° piso
+Bebedero Facultad de Economía, Edificio principal
+Bebedero Facultad de Filosofía y Letras, Edificio Adolfo Sánchez Vázquez, 3° piso
+Bebedero Facultad de Filosofía y Letras, 1° piso
+Bebedero Facultad de Filosofía y Letras, 1° piso, Aula-114
+Bebedero Facultad de Filosofía y Letras, 2° piso
+Bebedero Facultad de Filosofía y Letras, 2° piso, Aula-208
+Bebedero Facultad de Filosofía y Letras, 3° piso
+Bebedero Facultad de Filosofía y Letras, Biblioteca Samuel Ramos
+Bebedero Facultad de Filosofía y Letras, Edificio Adolfo Sánchez Vázquez, planta baja
+Bebedero Facultad de Filosofía y Letras, Edificio Adolfo Sánchez Vázquez, descanso 1° piso
+Bebedero Facultad de Filosofía y Letras, Edificio Adolfo Sánchez Vázquez, descanso 2° piso
+Bebedero Facultad de Filosofía y Letras, Jardín Rosario Castellanos
+Bebedero Facultad de Filosofía y Letras, Jardín Rosario Castellanos, Busto
+Bebedero Facultad de Ingeniería, Biblioteca Antonio Dovalí Jaime 
+Bebedero Facultad de Ingeniería, Sala de Exámenes Profesionales
+Bebedero Facultad de Medicina, Biblioteca Dr. Valentín Gómez Farías
+Bebedero Facultad de Medicina, Edificio B
+Bebedero Facultad de Medicina, Edificio D 
+Bebedero Facultad de Psicología, Biblioteca Dra. Graciela Rodriguez Ortega
+Bebedero Facultad de Psicología, Cafetería
+Bebedero Facultad de Psicología, Centro de Servicios Psicológicos
+Bebedero Facultad de Psicología, Edificio A (Oficina sindical)
+Bebedero Facultad de Psicología, Edificio C
+Bebedero Facultad de Psicología, Edificio E (Explanada)
+Bebedero Facultad de Psicología, Zona deportiva
+Bebedero Facultad de Química, Canchas
+Bebedero Facultad de Química, Edificio B, Sótano
+Bebedero Instituto de Ciencias Nucleares, Edificio C, 1° piso
+Bebedero Instituto de Ciencias Nucleares, Edificio C, 2° piso
+Bebedero Instituto de Ciencias Nucleares, Edificio C, 3° piso
+Bebedero Instituto de Ciencias Nucleares, Edificio F, 2° piso
+Bebedero Instituto de Ecología
+Bebedero Pista de Calentamiento, Gimnasio de Halterofilia
+Bebedero Pista de Calentamiento, Pista
+Bebedero Sala Nezahualcóyotl
+Bebedero Taller de Danza
+Bebedero Unidad de Cines
+Bebedero Unidad de posgrado, Edificio H
+Bebedero Unidad de Posgrado, Explanada
+Bebedero Universum, Explanada
+Bebedero Universum, Fuente
+Bebedero, Facultad de Derecho, Edificio D, 1° piso, Aula D-101
+Bebedero, Facultad de Derecho, Edificio D, 1° piso, Aula D-112
+Bebedero, Facultad de Derecho, Edificio D, 2° piso, Aula D-202
+Bebedero, Facultad de Derecho, Edificio D, 2° piso, Aula D-211
+Bebedero, Facultad de Derecho, Edificio D, 3° piso
+Bebedero, Facultad de Derecho, Edificio E, 1° piso
+CECESD Exterior
+DGDU Exterior
+Dispensador Anexo de Ingeniería, Camino Verde 
+Dispensador Anexo de Ingeniería, Edificio R
+Dispensador Anexo de Ingeniería, Edificio W
+Dispensador ex reposo de Atletas
+Dispensador Facultad de Arquitectura, Taller Hannes Meyer
+Dispensador Facultad de Arquitectura, Taller Jorge González Reyna
+Dispensador Facultad de Arquitectura, Taller Luis Barragán
+Dispensador Facultad de Ingeniería, Ed. B planta baja 
+Dispensador Facultad de Ingenieria, Ed. B puente
+Dispensador Facultad de Ingeniería, Ed. C 2º piso  
+Dispensador Facultad de Ingeniería, Jardín Central  
+Instituto de investigaciones Económocas
+Jugo de nube
+Pista de Calentamiento
+R1. Dispensador Alberca Olímpica. Cancha de voleibol de playa 
+R11. Dispensador Campos de fútbol Americano. Cubículo médico  
+R12. Dispensador Campos de Fútbol Americano. Entre comedor y baños 
+R13. Dispensador Estadio de Prácticas. Tiro con arco  
+R15. Dispensador Estadio de Prácticas. Vestidores
+R17. Dispensador Estadio de Prácticas. Entre baños de mujeres y hombre
+R18. Dispensador Estadio de Prácticas. Acceso a ambulancias
+R19. Dispensador Estadio de Prácticas. Al interior del acceso a ambulancias 
+R2. Dispensador Alberca Olímpica. Rampa de acceso
+R20. Dispensador Estadio de Prácticas. Campo de usos múltiples
+R21. Dispensador Frontón Abierto. Cancha de tennis
+R22. Dispensador Frontón Abierto. Cancha de basket 
+R23. Dispensador Frontón Abierto. Cancha de Voleibol
+R26. Dispensador Frontón Cerrado. Explanada 
+R3. Dispensador Alberca Olímpica. Comedor
+R40. Dispensador Campo de Béisbol. Gradas A
+R41. campo de Béisbol. Gradas B 
+R42. Dispensador Campo de Béisbol. Principal  
+R5. Dispensador Coordinación de Fútbol Americano. Caseta de vigilancia 
+R6. Dispensador Coordinación de Fútbol Americano. Acceso al gimnasio  
+R7. Dispensador Coordinación de Fútbol Americano. Arrancadero 
+R8. Dispensador Campos de Fútbol Americano. Baños
+R9. Dispensador Campos de Fútbol Americano. Bodega campo 4
