@@ -75,10 +75,21 @@ WSGI_APPLICATION = 'pumagua.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
+#DATABASES = {
+#    'default': {
+#        'ENGINE': 'django.db.backends.sqlite3',
+#        'NAME': BASE_DIR / 'db.sqlite3',
+#    }
+#}
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'd2pbcuueimgnkp',
+        'HOST': 'ec2-34-193-110-25.compute-1.amazonaws.com',
+        'USER': 'fxnyqzhnifjwif',
+        'PASSWORD': '8c355d72760df18d8d707b6ac10c9f80936895fbd267675bac80b2367e828f54',
+        'PORT': 5432,
     }
 }
 
