@@ -16,6 +16,10 @@ from pathlib import Path
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+import environ
+
+env = environ.Env()
+environ.Env.read_env()
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
@@ -84,12 +88,12 @@ WSGI_APPLICATION = 'pumagua.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'd2pbcuueimgnkp',
-        'HOST': 'ec2-34-193-110-25.compute-1.amazonaws.com',
-        'USER': 'fxnyqzhnifjwif',
-        'PASSWORD': '8c355d72760df18d8d707b6ac10c9f80936895fbd267675bac80b2367e828f54',
-        'PORT': 5432,
+        'ENGINE': env('DATABASE_ENGINE'),
+        'NAME': env('DATABASE_NAME'),
+        'HOST': env('DATABASE_HOST'),
+        'USER': env('DATABASE_USER'),
+        'PASSWORD':env('DATABASE_PASSWORD'),
+        'PORT': env('DATABASE_PORT'),
     }
 }
 
