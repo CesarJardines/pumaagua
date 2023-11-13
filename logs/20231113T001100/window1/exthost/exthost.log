@@ -1,0 +1,14 @@
+2023-11-13 00:11:27.697 [info] Extension host with pid 6894 started
+2023-11-13 00:11:27.697 [info] Skipping acquiring lock for /home/Irvinjcg/Descargas/pumagua/pumaagua/User/workspaceStorage/7b9cae797aab3595f0b3afb823efb9ad.
+2023-11-13 00:11:28.543 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-11-13 00:11:30.069 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-13 00:11:30.148 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-13 00:11:30.387 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-13 00:11:32.263 [info] Eager extensions activated
+2023-11-13 00:11:32.367 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-13 00:11:32.457 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-13 00:11:32.574 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-11-13 00:12:18.842 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-11-13 00:12:19.073 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-13 00:18:11.561 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-11-13 00:38:56.577 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
