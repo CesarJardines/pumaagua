@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-x67$owli)%fkogac+ovgsti3-@5=9sucd6d1l-_tz4o&_2cx2y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pumaagua-app-27be9e4a1af6.herokuapp.com']
 
 
 # Application definition
