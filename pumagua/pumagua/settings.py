@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-a^)t66d@1@8vplj+w@8ymwz8ax=dk#fuajcsqh&@#k8k5jwbtx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pumaagua-4da531102aa2.herokuapp.com']
 
 
 # Application definition
@@ -77,10 +77,15 @@ WSGI_APPLICATION = 'pumagua.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': env('DATABASE_ENGINE'),
+        'NAME': env('DATABASE_NAME'),
+        'HOST': env('DATABASE_HOST'),
+        'USER': env('DATABASE_USER'),
+        'PASSWORD':env('DATABASE_PASSWORD'),
+        'PORT': env('DATABASE_PORT'),
     }
 }
+
 
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
