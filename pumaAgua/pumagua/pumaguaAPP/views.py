@@ -20,7 +20,7 @@ def index(request):
     
     
     
-    with open('rutasPumaBus.json') as jsonfile:
+    with open('pumaAgua/pumagua/rutasPumaBus.json') as jsonfile:
         paseoRutas = json.load(jsonfile)
     
     fg1 = folium.FeatureGroup(name="Ruta 1",show=False).add_to(m)
