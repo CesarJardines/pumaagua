@@ -13,7 +13,7 @@ def index(request):
     m = folium.Map(location = [19.32, -99.18], zoom_start = 13, height = 500)
     LocateControl().add_to(m)
 
-    with open('rutas_pumabus.json') as json_file:
+    with open('pumagua/rutas_pumabus.json') as json_file:
         parseo_rutas = json.load(json_file)
 
     gr1 = folium.FeatureGroup(name='Ruta 1', show=False).add_to(m)
