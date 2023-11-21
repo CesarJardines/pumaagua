@@ -1,150 +1,80 @@
-/* Google Fonts - Poppins */
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Martel Sans', sans-serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:ital,wght@1,300&display=swap');
 
 
-
-body {
-  background: #42a9e4;
-}
-.nav {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  padding: 15px 200px;
-  background: #24e299;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-}
-.nav,
-.nav .nav-links {
-  display: flex;
-  align-items: center;
-}
-.nav {
-  justify-content: space-between;
-}
-a {
-  color: #fff;
-  text-decoration: none;
-}
-.nav .logo {
-  font-size: 22px;
-  font-weight: 500;
-}
-.nav .nav-links {
-  column-gap: 20px;
-  list-style: none;
-}
-.nav .nav-links a {
-  transition: all 0.2s linear;
-}
-.nav.openSearch .nav-links a {
-  opacity: 0;
-  pointer-events: none;
-}
-.nav .search-icon {
-  color: #fff;
-  font-size: 20px;
-  cursor: pointer;
-}
-.nav .search-box {
-  position: absolute;
-  right: 250px;
-  height: 45px;
-  max-width: 555px;
-  width: 100%;
-  opacity: 0;
-  pointer-events: none;
-  transition: all 0.2s linear;
-}
-.nav.openSearch .search-box {
-  opacity: 1;
-  pointer-events: auto;
-}
-.search-box .search-icon {
-  position: absolute;
-  left: 15px;
+.busqueda{
+    margin: auto;
+    margin-top: 1%;
+    width: 50%;
 }
 
-h1{
-  font-family: 'Martel Sans', sans-serif;
-}
-
-
-.form-container{
-    display: grid;
-    place-items: center;
-    margin-top: 5%;
+header{
+ background-color: #C4D3E7;
+ height: 44vh;
 }
 
 .map{
-    padding: 0;
-    border: 6px solid rgb(192, 200, 233);
-    border-style: dotted;
-    
+    margin: auto;
+    width: 90%;
+    height: 140%;
+    padding: 40px
+}
+
+@media (min-width: 992px) { 
+    .busqueda{
+      display: inline;
+    }
+  }
+
+h1{
+    font-family: 'Montserrat', sans-serif;
 }
 
 
-.button-6 {
+
+/* CSS */
+.button-30 {
+  margin-top: 2%;
+  margin-bottom: 2%;
   align-items: center;
-  background-color: #FFFFFF;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  border-radius: .25rem;
-  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  appearance: none;
+  background-color: #FCFCFD;
+  border-radius: 4px;
+  border-width: 0;
+  box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset;
   box-sizing: border-box;
-  color: rgba(0, 0, 0, 0.85);
+  color: #36395A;
   cursor: pointer;
   display: inline-flex;
-  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 16px;
-  font-weight: 600;
+  font-family: "JetBrains Mono",monospace;
+  height: 48px;
   justify-content: center;
-  line-height: 1.25;
-  margin: 0;
-  min-height: 3rem;
-  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  line-height: 1;
+  list-style: none;
+  overflow: hidden;
+  padding-left: 16px;
+  padding-right: 16px;
   position: relative;
+  text-align: left;
   text-decoration: none;
-  transition: all 250ms;
+  transition: box-shadow .15s,transform .15s;
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  vertical-align: baseline;
-  width: auto;
+  white-space: nowrap;
+  will-change: box-shadow,transform;
+  font-size: 18px;
 }
 
-.button-6:hover,
-.button-6:focus {
-  border-color: rgba(0, 0, 0, 0.15);
-  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
-  color: rgba(0, 0, 0, 0.65);
+.button-30:focus {
+  box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
 }
 
-.button-6:hover {
-  transform: translateY(-1px);
+.button-30:hover {
+  box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+  transform: translateY(-2px);
 }
 
-.button-6:active {
-  background-color: #5d9de6;
-  border-color: rgba(0, 0, 0, 0.15);
-  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
-  color: rgba(0, 0, 0, 0.65);
-  transform: translateY(0);
-}
-
- 
-
-.acordeon {
-  width: 800px;
-  margin: 90px auto;
-  color: black;
-  background-color: white;
-  padding: 45px 45px;
+.button-30:active {
+  box-shadow: #D6D6E7 0 3px 7px inset;
+  transform: translateY(2px);
 }

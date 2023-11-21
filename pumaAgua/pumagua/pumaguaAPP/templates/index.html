@@ -9,52 +9,56 @@
         <title></title>
         <link rel="icon" type="image/x-icon" href="{% static 'assets/favicon.ico'%}" />
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="{% static 'css/styles.css'%}" rel="stylesheet" />
+        <link href="{% static 'css/sties.css'%}" rel="stylesheet" />
         <link href="{% static 'css/custom.css'%}" rel="stylesheet" />
         
         
     </head>
     <body>
         <!--Nav Bar-->
-        <nav class="nav">
-            <i class="uil uil-bars navOpenBtn"></i>
-            <a href="/pumagua/static/images/" class="logo">PumAgua</a>
-      
-            <ul class="nav-links">
-              <i class="uil uil-times navCloseBtn"></i>
-              <li><a href="#">Home</a></li>
-              <li><a href="/pumagua/pumaguaAPP/templates/preguntasF.html">Preguntas frecuentes</a></li>
-              <li><a href="#">Ayuda</a></li>
-              <li><a href="#">Saber más</a></li>
-              <li><a href="#">Contacto</a></li>
+       <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary bg-opacity-75 fixed-top" id="mainNav">
+        <div class="container px-4">
+          <img src="{% static 'images/logo2.png' %}" width="90" height="90">
+          <a class="navbar-brand" href="#page-top">Bebederos UNAM</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ms-auto">
+              <button type="button" class="btn button-18" onclick="ayuda();">Ayuda</button>
             </ul>
-            
-            <i id="searchIcon"></i>
-          </nav>
+          </div>
+        </div>
+      </nav>
+
+    
         <!-- Header-->
-        <header class="color-header">
+        <header>
             <div class="container px-4 text-center">
-                <h1>Encuentra cualquier Bebedero en CU</h1>
+                <h1>Busca cualquier bebedero en Ciudad Universitaria</h1>
                 <div class="form-container">
                 <form class="d-flex" role="search">
-                    <input class="form-control me-2" name="q" type="search" placeholder="Encontrar Bebedero" aria-label="Search">
-                    <button class="button-6" type="submit">Buscar</button>
-                    
+                    <input class="form-control busqueda" name="q" type="search" placeholder="Buscar Bebederos" aria-label="Search">
                 </form>
+                <div class="buscar">
+                    <button class="button-30" type="submit">Buscar</button> 
+                </div>
                 </div>  
             </div>
         </header>
 
-            <div class="container">
                 <div class="map"> 
                 {{ map|safe}}
                 </div>
-            </div>
+            
       
         </section>
         <!-- Footer-->
-        <footer class="py-5">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2023</p></div>
+        <footer class="py-5 bg-primary bg-opacity-75 ">
+            <div class="container px-4"><p class="m-0 text-center text-white">Diseño:Equipo UWU: </p>
+            <p class="m-0 text-center text-white"> Información tomada del: 
+            <a href="http://www.observatoriodelagua.unam.mx/"  class="m-0 text-center text-white">Observatorio del Agua, UNAM.</a>
+            </p>
+            </div>
         </footer>
 
 

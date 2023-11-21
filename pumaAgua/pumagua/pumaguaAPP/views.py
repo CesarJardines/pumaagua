@@ -9,7 +9,7 @@ from folium.plugins import MarkerCluster
 # Create your views here.
 def index(request):
     datosBebederos = bebederos.objects.all()
-    m = folium.Map(location=[19.320916010251914, -99.18395683244859], zoom_start=13,height="100%",width="90%",left="5%")
+    m = folium.Map(location = [19.32, -99.18], zoom_start = 13, height = 500)
     LocateControl().add_to(m)
     
     html = ''' <h5> Nombre </h5> '''
@@ -20,7 +20,8 @@ def index(request):
     
     
     
-    with open('pumaAgua/pumagua/rutasPumaBus.json') as jsonfile:
+    #with open('pumaAgua/pumagua/rutasPumaBus.json') as jsonfile:
+    with open('rutasPumaBus.json') as jsonfile:
         paseoRutas = json.load(jsonfile)
     
     fg1 = folium.FeatureGroup(name="Ruta 1",show=False).add_to(m)
