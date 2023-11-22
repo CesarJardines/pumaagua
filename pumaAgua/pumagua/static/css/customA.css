@@ -1,22 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:ital,wght@1,300&display=swap');
-
-
 .busqueda{
     margin: auto;
     margin-top: 1%;
-    width: 50%;
+    width: 55%;
 }
 
 header{
- background-color: #C4D3E7;
+  background-color: #C4D3E7;
  height: 44vh;
 }
 
 .map{
     margin: auto;
     width: 90%;
-    height: 140%;
-    padding: 40px
+    height: 100%;
+    padding: 10px
 }
 
 @media (min-width: 992px) { 
@@ -33,8 +30,6 @@ h1{
 
 /* CSS */
 .button-30 {
-  margin-top: 2%;
-  margin-bottom: 2%;
   align-items: center;
   appearance: none;
   background-color: #FCFCFD;
@@ -77,4 +72,19 @@ h1{
 .button-30:active {
   box-shadow: #D6D6E7 0 3px 7px inset;
   transform: translateY(2px);
+}
+
+
+@media only screen and (max-width: 768px) {
+  .button-30{
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 992px) { 
+  .button-30{
+    display: inline;
+    float:right; 
+    
+  }
 }
