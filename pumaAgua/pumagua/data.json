@@ -1,0 +1,43 @@
+[
+    {
+        "pk":1,
+        "model": "pumaguaAPP.bebederos",
+        "fields": {
+            "nombre": "Bebedero Anexo de Ingenieria",
+            "ubicacion": "Edificio H",
+            "institucion": "Anexo de Ingenieria",
+            "palabras_clave": "Ingeneria,mural estudiantil del 68"
+        }
+    },
+        {
+    "pk":2,
+    "model": "pumaguaAPP.bebederos",
+    "fields": {
+        "nombre": "Bebedero Anexo de Ingeniería",
+        "ubicacion": "Edificio J",
+        "institucion": "Anexo de Ingenieria",
+        "palabras_clave": "Anexo de ingeneria,mesas de ajedrez"
+    }
+  },
+  {
+    "pk":3,
+    "model": "pumaguaAPP.bebederos",
+    "fields": {
+        "nombre": "Bebedero Anexo de Ingeniería",
+        "ubicacion": "Edificio S",
+        "institucion": "Anexo de Ingenieria",
+        "palabras_clave": "Anexo de ingeneria,baños"
+    }
+  },
+  {
+    "pk":4,
+    "model": "pumaguaAPP.bebederos",
+    "fields": {
+        "nombre": "Bebedero Anexo de Ingeniería",
+        "ubicacion": "Edificio T",
+        "institucion": "Anexo de Ingenieria",
+        "palabras_clave": "Anexo de ingeneria,cafeteria"
+    }
+  }
+
+]

@@ -1,0 +1,4 @@
+name: environment.yml
+channels:
+  - defaults
+prefix: /root/miniconda3/envs/environment.yml

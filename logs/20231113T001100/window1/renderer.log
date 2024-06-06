@@ -1,0 +1,11 @@
+2023-11-13 00:11:17.851 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2023-11-13 00:11:26.099 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2023-11-13 00:11:32.466 [info] [perf] Render performance baseline is 84ms
+2023-11-13 00:33:49.619 [error] Unknown (FileSystemError): Failed to move 'custom.css' to the trash
+    at i.create (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:37:3400)
+    at n (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:37:3512)
+    at $.s (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:42:41957)
+2023-11-13 00:33:49.667 [error] Failed to move 'custom.css' to the trash: Unknown (FileSystemError): Failed to move 'custom.css' to the trash
+    at i.create (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:37:3400)
+    at n (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:37:3512)
+    at $.s (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:42:41957)
