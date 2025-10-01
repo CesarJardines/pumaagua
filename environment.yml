@@ -1,0 +1,18 @@
+# Define AQUI el nombre del entorno virtual de Conda que se creará
+name: enviro
+
+#Especificamos el canal (repositorios) de donde Conda descargará los paquetes
+channels:
+  - defaults
+# Lista de todas las dependencias a descargar
+dependencies:
+  - python=3.10.0
+  - pip:
+    - django==4.1.6
+    - django-crispy-forms==1.14.0 
+    - django-environ==0.9.0
+  - folium=0.14.0
+ 
+
+# Define la ruta base donde Conda está instalado en TU SISTEMA
+prefix: /Users/TuUsuario/miniconda3
